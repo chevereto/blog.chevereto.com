@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.chevereto.com/</id>
+    <title>Chevereto Blog</title>
+    <updated>2022-07-29T16:36:11.573Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://blog.chevereto.com/"/>
+    <link rel="self" href="https://blog.chevereto.com/feed.atom"/>
+    <subtitle>All about Chevereto updates, development and more.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/07]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-07/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-07/">
+        </link>
+        <updated>2022-07-29T15:31:23.000Z</updated>
+        <summary type="html"><![CDATA[July 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/06]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-06/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-06/">
+        </link>
+        <updated>2022-06-30T17:18:13.000Z</updated>
+        <summary type="html"><![CDATA[June 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/05]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-05/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-05/">
+        </link>
+        <updated>2022-05-30T21:01:19.000Z</updated>
+        <summary type="html"><![CDATA[May 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/04]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-04/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-04/">
+        </link>
+        <updated>2022-04-28T16:13:04.000Z</updated>
+        <summary type="html"><![CDATA[April 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/03]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-03/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-03/">
+        </link>
+        <updated>2022-03-22T14:55:45.000Z</updated>
+        <summary type="html"><![CDATA[March 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/02]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-02/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-02/">
+        </link>
+        <updated>2022-02-28T18:50:40.000Z</updated>
+        <summary type="html"><![CDATA[February 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2022/01]]></title>
+        <id>https://blog.chevereto.com/tiempos-2022-01/</id>
+        <link href="https://blog.chevereto.com/tiempos-2022-01/">
+        </link>
+        <updated>2022-01-31T17:33:12.000Z</updated>
+        <summary type="html"><![CDATA[January 2022]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V4.0 beta updates]]></title>
+        <id>https://blog.chevereto.com/v4.0-beta-updates/</id>
+        <link href="https://blog.chevereto.com/v4.0-beta-updates/">
+        </link>
+        <updated>2021-12-14T14:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Stay in the loop]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto VPS]]></title>
+        <id>https://blog.chevereto.com/chevereto-vps/</id>
+        <link href="https://blog.chevereto.com/chevereto-vps/">
+        </link>
+        <updated>2021-10-14T21:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Universal VPS provisioning]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto Macanudo]]></title>
+        <id>https://blog.chevereto.com/chevereto-macanudo/</id>
+        <link href="https://blog.chevereto.com/chevereto-macanudo/">
+        </link>
+        <updated>2021-09-24T16:31:38.000Z</updated>
+        <summary type="html"><![CDATA[AKA Chevereto V4.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto V4 FAQ]]></title>
+        <id>https://blog.chevereto.com/chevereto-v4-faq/</id>
+        <link href="https://blog.chevereto.com/chevereto-v4-faq/">
+        </link>
+        <updated>2021-09-08T20:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Frequent asked questions]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 14th anniversary]]></title>
+        <id>https://blog.chevereto.com/chevereto-14th-anniversary/</id>
+        <link href="https://blog.chevereto.com/chevereto-14th-anniversary/">
+        </link>
+        <updated>2021-07-07T14:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Hello cloud, applications and V4!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Chevereto V4]]></title>
+        <id>https://blog.chevereto.com/hello-chevereto-v4/</id>
+        <link href="https://blog.chevereto.com/hello-chevereto-v4/">
+        </link>
+        <updated>2021-04-30T23:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Next gen media sharing]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 13th Anniversary]]></title>
+        <id>https://blog.chevereto.com/chevereto-13th-anniversary/</id>
+        <link href="https://blog.chevereto.com/chevereto-13th-anniversary/">
+        </link>
+        <updated>2020-07-07T15:10:20.000Z</updated>
+        <summary type="html"><![CDATA[The Big Picture]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chevereto Documentation]]></title>
+        <id>https://blog.chevereto.com/new-documentation-for-chevereto/</id>
+        <link href="https://blog.chevereto.com/new-documentation-for-chevereto/">
+        </link>
+        <updated>2020-07-01T18:17:56.000Z</updated>
+        <summary type="html"><![CDATA[VuePress powered documentation]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto Bulk Importing]]></title>
+        <id>https://blog.chevereto.com/chevereto-bulk-importing/</id>
+        <link href="https://blog.chevereto.com/chevereto-bulk-importing/">
+        </link>
+        <updated>2020-04-17T21:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Automatic importing is here.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 3 Long Term Support]]></title>
+        <id>https://blog.chevereto.com/chevereto-3-long-term-support/</id>
+        <link href="https://blog.chevereto.com/chevereto-3-long-term-support/">
+        </link>
+        <updated>2019-11-08T17:17:47.000Z</updated>
+        <summary type="html"><![CDATA[LTS until November 2022 for Chevereto V3.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing new installer with cPanel support]]></title>
+        <id>https://blog.chevereto.com/introducing-new-installer-with-cpanel-support/</id>
+        <link href="https://blog.chevereto.com/introducing-new-installer-with-cpanel-support/">
+        </link>
+        <updated>2019-07-04T03:02:40.000Z</updated>
+        <summary type="html"><![CDATA[All-new Chevereto installer.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chevereto installer]]></title>
+        <id>https://blog.chevereto.com/new-installer/</id>
+        <link href="https://blog.chevereto.com/new-installer/">
+        </link>
+        <updated>2017-11-05T23:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Easier and friendly installation process.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing upload plugin]]></title>
+        <id>https://blog.chevereto.com/introducing-upload-plugin/</id>
+        <link href="https://blog.chevereto.com/introducing-upload-plugin/">
+        </link>
+        <updated>2017-09-24T02:45:58.000Z</updated>
+        <summary type="html"><![CDATA[A new way to use Chevereto.]]></summary>
+    </entry>
+</feed>

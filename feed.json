@@ -1,0 +1,169 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chevereto Blog",
+    "home_page_url": "https://blog.chevereto.com/",
+    "feed_url": "https://blog.chevereto.com/feed.json",
+    "description": "All about Chevereto updates, development and more.",
+    "items": [
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-07/",
+            "url": "https://blog.chevereto.com/tiempos-2022-07/",
+            "title": "Tiempos 2022/07",
+            "summary": "July 2022",
+            "image": "https://blog.chevereto.com/photos/2022/milad-fakurian-nY14Fs8pxT8-unsplash.jpg",
+            "date_modified": "2022-07-29T15:31:23.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-06/",
+            "url": "https://blog.chevereto.com/tiempos-2022-06/",
+            "title": "Tiempos 2022/06",
+            "summary": "June 2022",
+            "image": "https://blog.chevereto.com/photos/2022/richard-horvath-cPccYbPrF.jpg",
+            "date_modified": "2022-06-30T17:18:13.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-05/",
+            "url": "https://blog.chevereto.com/tiempos-2022-05/",
+            "title": "Tiempos 2022/05",
+            "summary": "May 2022",
+            "image": "https://blog.chevereto.com/photos/2022/richard-horvath-RAZU_R66vUc.jpg",
+            "date_modified": "2022-05-30T21:01:19.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-04/",
+            "url": "https://blog.chevereto.com/tiempos-2022-04/",
+            "title": "Tiempos 2022/04",
+            "summary": "April 2022",
+            "image": "https://blog.chevereto.com/photos/2022/vackground.jpg",
+            "date_modified": "2022-04-28T16:13:04.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-03/",
+            "url": "https://blog.chevereto.com/tiempos-2022-03/",
+            "title": "Tiempos 2022/03",
+            "summary": "March 2022",
+            "image": "https://blog.chevereto.com/photos/2022/lucas-benjamin.jpg",
+            "date_modified": "2022-03-22T14:55:45.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-02/",
+            "url": "https://blog.chevereto.com/tiempos-2022-02/",
+            "title": "Tiempos 2022/02",
+            "summary": "February 2022",
+            "image": "https://blog.chevereto.com/photos/2022/kostiantyn-stupak-190340.jpg",
+            "date_modified": "2022-02-28T18:50:40.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/tiempos-2022-01/",
+            "url": "https://blog.chevereto.com/tiempos-2022-01/",
+            "title": "Tiempos 2022/01",
+            "summary": "January 2022",
+            "image": "https://blog.chevereto.com/photos/2022/david-marcu-cuicas-romania.jpg",
+            "date_modified": "2022-01-31T17:33:12.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/v4.0-beta-updates/",
+            "url": "https://blog.chevereto.com/v4.0-beta-updates/",
+            "title": "V4.0 beta updates",
+            "summary": "Stay in the loop",
+            "image": "https://blog.chevereto.com/photos/2021/pexels-fiona-art-5186869.jpg",
+            "date_modified": "2021-12-14T14:11:45.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-vps/",
+            "url": "https://blog.chevereto.com/chevereto-vps/",
+            "title": "Chevereto VPS",
+            "summary": "Universal VPS provisioning",
+            "image": "https://blog.chevereto.com/photos/2021/vps.jpeg",
+            "date_modified": "2021-10-14T21:24:21.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-macanudo/",
+            "url": "https://blog.chevereto.com/chevereto-macanudo/",
+            "title": "Chevereto Macanudo",
+            "summary": "AKA Chevereto V4.0",
+            "image": "https://blog.chevereto.com/photos/2021/moais.jpg",
+            "date_modified": "2021-09-24T16:31:38.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-v4-faq/",
+            "url": "https://blog.chevereto.com/chevereto-v4-faq/",
+            "title": "Chevereto V4 FAQ",
+            "summary": "Frequent asked questions",
+            "image": "https://blog.chevereto.com/photos/2021/pexels-faik-akmd-1025469.jpg",
+            "date_modified": "2021-09-08T20:52:24.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-14th-anniversary/",
+            "url": "https://blog.chevereto.com/chevereto-14th-anniversary/",
+            "title": "Chevereto 14th anniversary",
+            "summary": "Hello cloud, applications and V4!",
+            "image": "https://blog.chevereto.com/photos/2021/pexels-john-cahil-rom-2170473.jpg",
+            "date_modified": "2021-07-07T14:58:35.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/hello-chevereto-v4/",
+            "url": "https://blog.chevereto.com/hello-chevereto-v4/",
+            "title": "Hello, Chevereto V4",
+            "summary": "Next gen media sharing",
+            "image": "https://blog.chevereto.com/photos/2021/breno-machado-in9-n0JwgZ0-unsplash.jpg",
+            "date_modified": "2021-04-30T23:28:34.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-13th-anniversary/",
+            "url": "https://blog.chevereto.com/chevereto-13th-anniversary/",
+            "title": "Chevereto 13th Anniversary",
+            "summary": "The Big Picture",
+            "image": "https://blog.chevereto.com/photos/2021/sean-sinclair-C_NJKfnTR5A-unsplash.jpg",
+            "date_modified": "2020-07-07T15:10:20.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/new-documentation-for-chevereto/",
+            "url": "https://blog.chevereto.com/new-documentation-for-chevereto/",
+            "title": "New Chevereto Documentation",
+            "summary": "VuePress powered documentation",
+            "image": "https://blog.chevereto.com/photos/2021/pexels-aviv-perets-3274903.jpg",
+            "date_modified": "2020-07-01T18:17:56.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-bulk-importing/",
+            "url": "https://blog.chevereto.com/chevereto-bulk-importing/",
+            "title": "Chevereto Bulk Importing",
+            "summary": "Automatic importing is here.",
+            "image": "https://blog.chevereto.com/photos/2020/3.15.jpg",
+            "date_modified": "2020-04-17T21:18:18.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/chevereto-3-long-term-support/",
+            "url": "https://blog.chevereto.com/chevereto-3-long-term-support/",
+            "title": "Chevereto 3 Long Term Support",
+            "summary": "LTS until November 2022 for Chevereto V3.",
+            "image": "https://blog.chevereto.com/photos/2021/sergei-akulich-xdj_w3w6dMU-unsplash.jpg",
+            "date_modified": "2019-11-08T17:17:47.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/introducing-new-installer-with-cpanel-support/",
+            "url": "https://blog.chevereto.com/introducing-new-installer-with-cpanel-support/",
+            "title": "Introducing new installer with cPanel support",
+            "summary": "All-new Chevereto installer.",
+            "image": "https://blog.chevereto.com/photos/2019/installer-screen-v2.png",
+            "date_modified": "2019-07-04T03:02:40.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/new-installer/",
+            "url": "https://blog.chevereto.com/new-installer/",
+            "title": "New Chevereto installer",
+            "summary": "Easier and friendly installation process.",
+            "image": "https://blog.chevereto.com/photos/2017/installer-screen.jpg",
+            "date_modified": "2017-11-05T23:19:30.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/introducing-upload-plugin/",
+            "url": "https://blog.chevereto.com/introducing-upload-plugin/",
+            "title": "Introducing upload plugin",
+            "summary": "A new way to use Chevereto.",
+            "image": "https://blog.chevereto.com/photos/2017/pup_display.png",
+            "date_modified": "2017-09-24T02:45:58.000Z"
+        }
+    ]
+}
