@@ -1,0 +1,169 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chevereto Blog",
+    "home_page_url": "https://blog.chevereto.com/",
+    "feed_url": "https://blog.chevereto.com/feed.json",
+    "description": "All about Chevereto updates, development and more.",
+    "items": [
+        {
+            "id": "https://blog.chevereto.com/upcoming/video-support/",
+            "url": "https://blog.chevereto.com/upcoming/video-support/",
+            "title": "Video support",
+            "summary": "Arriving on V4.1.0",
+            "image": "https://blog.chevereto.com/photos/2024/pexels-tima-miroshnichenko-5662857.jpg",
+            "date_modified": "2024-03-19T10:50:17.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2024/03/01/tiempos-22/",
+            "url": "https://blog.chevereto.com/2024/03/01/tiempos-22/",
+            "title": "Tiempos 2024/03",
+            "summary": "March 2024",
+            "image": "https://blog.chevereto.com/photos/2024/pexels-rok-romih-3848158.jpg",
+            "date_modified": "2024-03-01T00:42:32.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2024/02/03/license-key-regeneration/",
+            "url": "https://blog.chevereto.com/2024/02/03/license-key-regeneration/",
+            "title": "License key regeneration",
+            "summary": "Protecting your keys",
+            "image": "https://blog.chevereto.com/photos/2024/marek-piwnicki-t9AKq7vFYlc-unsplash.jpg",
+            "date_modified": "2024-02-03T13:47:42.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/upcoming/user-based-api/",
+            "url": "https://blog.chevereto.com/upcoming/user-based-api/",
+            "title": "User-based API",
+            "summary": "Rolling from V4.1.0",
+            "image": "https://blog.chevereto.com/photos/2024/brigitta-schneiter-hXXRLtTxXCU-unsplash.jpg",
+            "date_modified": "2024-02-02T10:09:59.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2024/02/01/chevereto-subscription/",
+            "url": "https://blog.chevereto.com/2024/02/01/chevereto-subscription/",
+            "title": "Chevereto Subscription",
+            "summary": "New subscription model",
+            "image": "https://blog.chevereto.com/photos/2024/chevereto-ultimate-remix.png",
+            "date_modified": "2024-02-01T22:59:42.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2024/01/09/tiempos-21/",
+            "url": "https://blog.chevereto.com/2024/01/09/tiempos-21/",
+            "title": "Tiempos 2024/01",
+            "summary": "January 2024",
+            "image": "https://blog.chevereto.com/photos/2024/pexels-pixabay-417173.jpg",
+            "date_modified": "2024-01-09T22:45:37.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/09/01/tiempos-20/",
+            "url": "https://blog.chevereto.com/2023/09/01/tiempos-20/",
+            "title": "Tiempos 2023/09",
+            "summary": "September 2023",
+            "image": "https://blog.chevereto.com/photos/2023/kai-oberhauser-BKAaLmT0tIs-unsplash.jpg",
+            "date_modified": "2023-09-01T23:40:53.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/07/03/tiempos-19/",
+            "url": "https://blog.chevereto.com/2023/07/03/tiempos-19/",
+            "title": "Tiempos 2023/07",
+            "summary": "July 2023",
+            "image": "https://blog.chevereto.com/photos/2023/garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+            "date_modified": "2023-07-03T17:15:35.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/guides/real-estate-with-chevereto/",
+            "url": "https://blog.chevereto.com/guides/real-estate-with-chevereto/",
+            "title": "Real estate with Chevereto",
+            "summary": "Chevereto for Real estate",
+            "image": "https://blog.chevereto.com/photos/2023/real-estate.jpg",
+            "date_modified": "2023-06-29T19:17:00.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/06/01/tiempos-18/",
+            "url": "https://blog.chevereto.com/2023/06/01/tiempos-18/",
+            "title": "Tiempos 2023/06",
+            "summary": "June 2023",
+            "image": "https://blog.chevereto.com/photos/2023/3.13.jpg",
+            "date_modified": "2023-06-01T15:38:35.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/guides/sell-with-chevereto/",
+            "url": "https://blog.chevereto.com/guides/sell-with-chevereto/",
+            "title": "Sell with Chevereto",
+            "summary": "Chevereto as a product gallery",
+            "image": "/photos/2023/zapatito-cochinito.jpg",
+            "date_modified": "2023-05-17T19:17:29.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/05/01/tiempos-17/",
+            "url": "https://blog.chevereto.com/2023/05/01/tiempos-17/",
+            "title": "Tiempos 2023/05",
+            "summary": "May 2023",
+            "image": "https://blog.chevereto.com/photos/2023/pexels-philip-kapadia-9302233.jpg",
+            "date_modified": "2023-05-01T09:04:05.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/04/01/tiempos-16/",
+            "url": "https://blog.chevereto.com/2023/04/01/tiempos-16/",
+            "title": "Tiempos 2023/04",
+            "summary": "April 2023",
+            "image": "https://blog.chevereto.com/photos/2023/pexels-monique-laats-733090.jpg",
+            "date_modified": "2023-04-01T09:04:05.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/03/02/tiempos-15/",
+            "url": "https://blog.chevereto.com/2023/03/02/tiempos-15/",
+            "title": "Tiempos 2023/03",
+            "summary": "March 2023",
+            "image": "https://blog.chevereto.com/photos/2023/caleb-riston-TXiBwX0kg-Q-unsplash.jpg",
+            "date_modified": "2023-03-02T13:19:08.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/02/06/chevereto-tiempos-14/",
+            "url": "https://blog.chevereto.com/2023/02/06/chevereto-tiempos-14/",
+            "title": "Tiempos 2023/02",
+            "summary": "February 2023",
+            "image": "https://blog.chevereto.com/photos/2023/peter-neumann-unsplash.jpg",
+            "date_modified": "2023-02-06T08:52:48.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2023/01/03/chevereto-tiempos-13/",
+            "url": "https://blog.chevereto.com/2023/01/03/chevereto-tiempos-13/",
+            "title": "Tiempos 2023/01",
+            "summary": "January 2023",
+            "image": "https://blog.chevereto.com/photos/2023/mike-erskine-75ljuXfyzaE-unsplash.jpg",
+            "date_modified": "2023-01-03T21:52:49.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2022/12/01/chevereto-tiempos-11/",
+            "url": "https://blog.chevereto.com/2022/12/01/chevereto-tiempos-11/",
+            "title": "Tiempos 2022/11",
+            "summary": "November 2022",
+            "image": "https://blog.chevereto.com/photos/2022/pexels-prakash-aryal-38326.jpg",
+            "date_modified": "2022-12-01T11:45:27.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2022/11/02/chevereto-tiempos-10/",
+            "url": "https://blog.chevereto.com/2022/11/02/chevereto-tiempos-10/",
+            "title": "Tiempos 2022/10",
+            "summary": "October 2022",
+            "image": "https://blog.chevereto.com/photos/2022/guerrillabuzz-crypto-pr-MpL4w1vb798-unsplash.jpg",
+            "date_modified": "2022-11-02T21:20:19.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2022/09/30/chevereto-tiempos-9/",
+            "url": "https://blog.chevereto.com/2022/09/30/chevereto-tiempos-9/",
+            "title": "Tiempos 2022/09",
+            "summary": "September 2022",
+            "image": "https://blog.chevereto.com/photos/2022/guerrillabuzz-crypto-pr-5sWL3GQ5iCc-unsplash.jpg",
+            "date_modified": "2022-09-30T10:46:11.000Z"
+        },
+        {
+            "id": "https://blog.chevereto.com/2022/09/22/chevereto-4-0/",
+            "url": "https://blog.chevereto.com/2022/09/22/chevereto-4-0/",
+            "title": "Chevereto V4.0",
+            "summary": "New major release available",
+            "image": "https://blog.chevereto.com/photos/2022/pexels-pixabay-161154.jpg",
+            "date_modified": "2022-09-22T22:10:35.000Z"
+        }
+    ]
+}
