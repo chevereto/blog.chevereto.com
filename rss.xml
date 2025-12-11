@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chevereto Blog</title>
+        <link>https://blog.chevereto.com/</link>
+        <description>All about Chevereto updates, development and more.</description>
+        <lastBuildDate>Thu, 11 Dec 2025 14:54:14 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://blog.chevereto.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chevereto 4.4 (Vivaracho)]]></title>
+            <link>https://blog.chevereto.com/2025/12/09/chevereto-4-4/</link>
+            <guid>https://blog.chevereto.com/2025/12/09/chevereto-4-4/</guid>
+            <pubDate>Tue, 09 Dec 2025 15:11:02 GMT</pubDate>
+            <description><![CDATA[Less Pavarotti & more Vivaldi tiempos]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2025/uriel-soberanes-0DqFVmsxn6w-unsplash.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Multitenancy]]></title>
+            <link>https://blog.chevereto.com/upcoming/multitenancy/</link>
+            <guid>https://blog.chevereto.com/upcoming/multitenancy/</guid>
+            <pubDate>Wed, 12 Nov 2025 13:50:33 GMT</pubDate>
+            <description><![CDATA[Arriving in V4.4.0]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2025/lana-Oh_xrgj_zOc-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2025/06]]></title>
+            <link>https://blog.chevereto.com/2025/06/13/tiempos-31/</link>
+            <guid>https://blog.chevereto.com/2025/06/13/tiempos-31/</guid>
+            <pubDate>Fri, 13 Jun 2025 13:13:13 GMT</pubDate>
+            <description><![CDATA[June 2025]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2025/pexels-eberhardgross-1183021.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevereto 4.3 (Entrador)]]></title>
+            <link>https://blog.chevereto.com/2025/05/13/chevereto-4-3/</link>
+            <guid>https://blog.chevereto.com/2025/05/13/chevereto-4-3/</guid>
+            <pubDate>Tue, 13 May 2025 23:11:44 GMT</pubDate>
+            <description><![CDATA[Entradores tiempos]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2025/chuttersnap-MpxAiNDevjU-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Big File Upload]]></title>
+            <link>https://blog.chevereto.com/upcoming/big-file-upload/</link>
+            <guid>https://blog.chevereto.com/upcoming/big-file-upload/</guid>
+            <pubDate>Mon, 03 Mar 2025 14:34:15 GMT</pubDate>
+            <description><![CDATA[Arriving on V4.3.0]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2025/pexels-mohamed-nasar-641930278-17977824.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/12]]></title>
+            <link>https://blog.chevereto.com/2024/12/27/tiempos-30/</link>
+            <guid>https://blog.chevereto.com/2024/12/27/tiempos-30/</guid>
+            <pubDate>Fri, 27 Dec 2024 13:13:29 GMT</pubDate>
+            <description><![CDATA[December 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/colin-watts-RcwxReK7y54-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Chevereto Lite]]></title>
+            <link>https://blog.chevereto.com/2024/12/08/hello-chevereto-lite/</link>
+            <guid>https://blog.chevereto.com/2024/12/08/hello-chevereto-lite/</guid>
+            <pubDate>Sun, 08 Dec 2024 04:58:12 GMT</pubDate>
+            <description><![CDATA[Introducing new edition]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-minan1398-793012.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/11]]></title>
+            <link>https://blog.chevereto.com/2024/11/09/tiempos-29/</link>
+            <guid>https://blog.chevereto.com/2024/11/09/tiempos-29/</guid>
+            <pubDate>Sat, 09 Nov 2024 14:25:11 GMT</pubDate>
+            <description><![CDATA[November 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/aisvri-LvJGgt1i-WY-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Chevereto 4.2 (Regio)]]></title>
+            <link>https://blog.chevereto.com/2024/10/24/chevereto-4-2/</link>
+            <guid>https://blog.chevereto.com/2024/10/24/chevereto-4-2/</guid>
+            <pubDate>Thu, 24 Oct 2024 04:20:00 GMT</pubDate>
+            <description><![CDATA[Tags, tags everywhere]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/4.2.0_home_cover.avif">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/09]]></title>
+            <link>https://blog.chevereto.com/2024/09/16/tiempos-28/</link>
+            <guid>https://blog.chevereto.com/2024/09/16/tiempos-28/</guid>
+            <pubDate>Mon, 16 Sep 2024 10:47:08 GMT</pubDate>
+            <description><![CDATA[September 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-pixabay-414110.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/08]]></title>
+            <link>https://blog.chevereto.com/2024/08/12/tiempos-27/</link>
+            <guid>https://blog.chevereto.com/2024/08/12/tiempos-27/</guid>
+            <pubDate>Mon, 12 Aug 2024 16:52:32 GMT</pubDate>
+            <description><![CDATA[August 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/diego-ph-vTitvl4O2kE-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/07]]></title>
+            <link>https://blog.chevereto.com/2024/07/01/tiempos-26/</link>
+            <guid>https://blog.chevereto.com/2024/07/01/tiempos-26/</guid>
+            <pubDate>Mon, 01 Jul 2024 14:26:39 GMT</pubDate>
+            <description><![CDATA[July 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-diego-giron-464799823-20942936.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/06]]></title>
+            <link>https://blog.chevereto.com/2024/06/01/tiempos-25/</link>
+            <guid>https://blog.chevereto.com/2024/06/01/tiempos-25/</guid>
+            <pubDate>Sat, 01 Jun 2024 15:59:43 GMT</pubDate>
+            <description><![CDATA[June 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-no-name-14543-66997.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/05]]></title>
+            <link>https://blog.chevereto.com/2024/05/01/tiempos-24/</link>
+            <guid>https://blog.chevereto.com/2024/05/01/tiempos-24/</guid>
+            <pubDate>Wed, 01 May 2024 08:50:17 GMT</pubDate>
+            <description><![CDATA[May 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/ben-collins-SpDOwp6PnBs-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tags support]]></title>
+            <link>https://blog.chevereto.com/upcoming/tags-support/</link>
+            <guid>https://blog.chevereto.com/upcoming/tags-support/</guid>
+            <pubDate>Thu, 04 Apr 2024 22:36:26 GMT</pubDate>
+            <description><![CDATA[Arriving on V4.2.0]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/tj-fitzsimmons-vQGwNgWl2Ew-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/04]]></title>
+            <link>https://blog.chevereto.com/2024/04/01/tiempos-23/</link>
+            <guid>https://blog.chevereto.com/2024/04/01/tiempos-23/</guid>
+            <pubDate>Mon, 01 Apr 2024 14:59:20 GMT</pubDate>
+            <description><![CDATA[April 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-nunzio-guerrera-17880663.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Video support]]></title>
+            <link>https://blog.chevereto.com/upcoming/video-support/</link>
+            <guid>https://blog.chevereto.com/upcoming/video-support/</guid>
+            <pubDate>Tue, 19 Mar 2024 10:50:17 GMT</pubDate>
+            <description><![CDATA[Arriving on V4.1.0]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-tima-miroshnichenko-5662857.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tiempos 2024/03]]></title>
+            <link>https://blog.chevereto.com/2024/03/01/tiempos-22/</link>
+            <guid>https://blog.chevereto.com/2024/03/01/tiempos-22/</guid>
+            <pubDate>Fri, 01 Mar 2024 00:42:32 GMT</pubDate>
+            <description><![CDATA[March 2024]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-rok-romih-3848158.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[License key regeneration]]></title>
+            <link>https://blog.chevereto.com/2024/02/03/license-key-regeneration/</link>
+            <guid>https://blog.chevereto.com/2024/02/03/license-key-regeneration/</guid>
+            <pubDate>Sat, 03 Feb 2024 13:47:42 GMT</pubDate>
+            <description><![CDATA[Protecting your keys]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/marek-piwnicki-t9AKq7vFYlc-unsplash.jpg">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[User-based API]]></title>
+            <link>https://blog.chevereto.com/upcoming/user-based-api/</link>
+            <guid>https://blog.chevereto.com/upcoming/user-based-api/</guid>
+            <pubDate>Fri, 02 Feb 2024 10:09:59 GMT</pubDate>
+            <description><![CDATA[Rolling from V4.1.0]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2024/brigitta-schneiter-hXXRLtTxXCU-unsplash.jpg">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

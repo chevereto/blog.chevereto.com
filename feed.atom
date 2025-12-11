@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.chevereto.com/</id>
+    <title>Chevereto Blog</title>
+    <updated>2025-12-11T14:54:14.525Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://blog.chevereto.com/"/>
+    <link rel="self" href="https://blog.chevereto.com/feed.atom"/>
+    <subtitle>All about Chevereto updates, development and more.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.4 (Vivaracho)]]></title>
+        <id>https://blog.chevereto.com/2025/12/09/chevereto-4-4/</id>
+        <link href="https://blog.chevereto.com/2025/12/09/chevereto-4-4/">
+        </link>
+        <updated>2025-12-09T15:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Less Pavarotti & more Vivaldi tiempos]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multitenancy]]></title>
+        <id>https://blog.chevereto.com/upcoming/multitenancy/</id>
+        <link href="https://blog.chevereto.com/upcoming/multitenancy/">
+        </link>
+        <updated>2025-11-12T13:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Arriving in V4.4.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2025/06]]></title>
+        <id>https://blog.chevereto.com/2025/06/13/tiempos-31/</id>
+        <link href="https://blog.chevereto.com/2025/06/13/tiempos-31/">
+        </link>
+        <updated>2025-06-13T13:13:13.000Z</updated>
+        <summary type="html"><![CDATA[June 2025]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.3 (Entrador)]]></title>
+        <id>https://blog.chevereto.com/2025/05/13/chevereto-4-3/</id>
+        <link href="https://blog.chevereto.com/2025/05/13/chevereto-4-3/">
+        </link>
+        <updated>2025-05-13T23:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Entradores tiempos]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big File Upload]]></title>
+        <id>https://blog.chevereto.com/upcoming/big-file-upload/</id>
+        <link href="https://blog.chevereto.com/upcoming/big-file-upload/">
+        </link>
+        <updated>2025-03-03T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Arriving on V4.3.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/12]]></title>
+        <id>https://blog.chevereto.com/2024/12/27/tiempos-30/</id>
+        <link href="https://blog.chevereto.com/2024/12/27/tiempos-30/">
+        </link>
+        <updated>2024-12-27T13:13:29.000Z</updated>
+        <summary type="html"><![CDATA[December 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Chevereto Lite]]></title>
+        <id>https://blog.chevereto.com/2024/12/08/hello-chevereto-lite/</id>
+        <link href="https://blog.chevereto.com/2024/12/08/hello-chevereto-lite/">
+        </link>
+        <updated>2024-12-08T04:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Introducing new edition]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/11]]></title>
+        <id>https://blog.chevereto.com/2024/11/09/tiempos-29/</id>
+        <link href="https://blog.chevereto.com/2024/11/09/tiempos-29/">
+        </link>
+        <updated>2024-11-09T14:25:11.000Z</updated>
+        <summary type="html"><![CDATA[November 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 4.2 (Regio)]]></title>
+        <id>https://blog.chevereto.com/2024/10/24/chevereto-4-2/</id>
+        <link href="https://blog.chevereto.com/2024/10/24/chevereto-4-2/">
+        </link>
+        <updated>2024-10-24T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Tags, tags everywhere]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/09]]></title>
+        <id>https://blog.chevereto.com/2024/09/16/tiempos-28/</id>
+        <link href="https://blog.chevereto.com/2024/09/16/tiempos-28/">
+        </link>
+        <updated>2024-09-16T10:47:08.000Z</updated>
+        <summary type="html"><![CDATA[September 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/08]]></title>
+        <id>https://blog.chevereto.com/2024/08/12/tiempos-27/</id>
+        <link href="https://blog.chevereto.com/2024/08/12/tiempos-27/">
+        </link>
+        <updated>2024-08-12T16:52:32.000Z</updated>
+        <summary type="html"><![CDATA[August 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/07]]></title>
+        <id>https://blog.chevereto.com/2024/07/01/tiempos-26/</id>
+        <link href="https://blog.chevereto.com/2024/07/01/tiempos-26/">
+        </link>
+        <updated>2024-07-01T14:26:39.000Z</updated>
+        <summary type="html"><![CDATA[July 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/06]]></title>
+        <id>https://blog.chevereto.com/2024/06/01/tiempos-25/</id>
+        <link href="https://blog.chevereto.com/2024/06/01/tiempos-25/">
+        </link>
+        <updated>2024-06-01T15:59:43.000Z</updated>
+        <summary type="html"><![CDATA[June 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/05]]></title>
+        <id>https://blog.chevereto.com/2024/05/01/tiempos-24/</id>
+        <link href="https://blog.chevereto.com/2024/05/01/tiempos-24/">
+        </link>
+        <updated>2024-05-01T08:50:17.000Z</updated>
+        <summary type="html"><![CDATA[May 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tags support]]></title>
+        <id>https://blog.chevereto.com/upcoming/tags-support/</id>
+        <link href="https://blog.chevereto.com/upcoming/tags-support/">
+        </link>
+        <updated>2024-04-04T22:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Arriving on V4.2.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/04]]></title>
+        <id>https://blog.chevereto.com/2024/04/01/tiempos-23/</id>
+        <link href="https://blog.chevereto.com/2024/04/01/tiempos-23/">
+        </link>
+        <updated>2024-04-01T14:59:20.000Z</updated>
+        <summary type="html"><![CDATA[April 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video support]]></title>
+        <id>https://blog.chevereto.com/upcoming/video-support/</id>
+        <link href="https://blog.chevereto.com/upcoming/video-support/">
+        </link>
+        <updated>2024-03-19T10:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Arriving on V4.1.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiempos 2024/03]]></title>
+        <id>https://blog.chevereto.com/2024/03/01/tiempos-22/</id>
+        <link href="https://blog.chevereto.com/2024/03/01/tiempos-22/">
+        </link>
+        <updated>2024-03-01T00:42:32.000Z</updated>
+        <summary type="html"><![CDATA[March 2024]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[License key regeneration]]></title>
+        <id>https://blog.chevereto.com/2024/02/03/license-key-regeneration/</id>
+        <link href="https://blog.chevereto.com/2024/02/03/license-key-regeneration/">
+        </link>
+        <updated>2024-02-03T13:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Protecting your keys]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User-based API]]></title>
+        <id>https://blog.chevereto.com/upcoming/user-based-api/</id>
+        <link href="https://blog.chevereto.com/upcoming/user-based-api/">
+        </link>
+        <updated>2024-02-02T10:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Rolling from V4.1.0]]></summary>
+    </entry>
+</feed>
