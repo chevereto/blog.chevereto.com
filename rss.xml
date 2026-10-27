@@ -4,10 +4,19 @@
         <title>Chevereto Blog</title>
         <link>https://blog.chevereto.com/</link>
         <description>All about Chevereto updates, development and more.</description>
-        <lastBuildDate>Mon, 31 Aug 2026 02:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 16:20:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.chevereto.com/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Security update V4.5.8]]></title>
+            <link>https://blog.chevereto.com/2026/10/27/chevereto-4-5-8/</link>
+            <guid>https://blog.chevereto.com/2026/10/27/chevereto-4-5-8/</guid>
+            <pubDate>Tue, 27 Oct 2026 16:04:25 GMT</pubDate>
+            <description><![CDATA[Must-have patches]]></description>
+            <enclosure url="https://blog.chevereto.com/photos/2026/pexels-steve-12951262.jpg">
+            </enclosure>
+        </item>
         <item>
             <title><![CDATA[Hello, Chevereto Cloud]]></title>
             <link>https://blog.chevereto.com/2026/08/25/hello-chevereto-cloud/</link>
@@ -177,15 +186,6 @@
             <pubDate>Thu, 04 Apr 2024 22:36:26 GMT</pubDate>
             <description><![CDATA[Arriving on V4.2.0]]></description>
             <enclosure url="https://blog.chevereto.com/photos/2024/tj-fitzsimmons-vQGwNgWl2Ew-unsplash.jpg">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Tiempos 2024/04]]></title>
-            <link>https://blog.chevereto.com/2024/04/01/tiempos-23/</link>
-            <guid>https://blog.chevereto.com/2024/04/01/tiempos-23/</guid>
-            <pubDate>Mon, 01 Apr 2024 14:59:20 GMT</pubDate>
-            <description><![CDATA[April 2024]]></description>
-            <enclosure url="https://blog.chevereto.com/photos/2024/pexels-nunzio-guerrera-17880663.jpg">
             </enclosure>
         </item>
     </channel>
