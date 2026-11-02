@@ -6,6 +6,14 @@
     "description": "All about Chevereto updates, development and more.",
     "items": [
         {
+            "id": "https://blog.chevereto.com/2026/11/02/chevereto-4-5-9/",
+            "url": "https://blog.chevereto.com/2026/11/02/chevereto-4-5-9/",
+            "title": "Maintenance update V4.5.9",
+            "summary": "Must-have patches",
+            "image": "https://blog.chevereto.com/photos/2026/pexels-pachon-in-motion-426015731-18419508.jpg",
+            "date_modified": "2026-11-02T20:59:32.000Z"
+        },
+        {
             "id": "https://blog.chevereto.com/2026/10/27/chevereto-4-5-8/",
             "url": "https://blog.chevereto.com/2026/10/27/chevereto-4-5-8/",
             "title": "Security update V4.5.8",
@@ -156,14 +164,6 @@
             "summary": "May 2024",
             "image": "https://blog.chevereto.com/photos/2024/ben-collins-SpDOwp6PnBs-unsplash.jpg",
             "date_modified": "2024-05-01T08:50:17.000Z"
-        },
-        {
-            "id": "https://blog.chevereto.com/upcoming/tags-support/",
-            "url": "https://blog.chevereto.com/upcoming/tags-support/",
-            "title": "Tags support",
-            "summary": "Arriving on V4.2.0",
-            "image": "https://blog.chevereto.com/photos/2024/tj-fitzsimmons-vQGwNgWl2Ew-unsplash.jpg",
-            "date_modified": "2024-04-04T22:36:26.000Z"
         }
     ]
 }
