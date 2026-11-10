@@ -4,7 +4,7 @@
         <title>Chevereto Blog</title>
         <link>https://blog.chevereto.com/</link>
         <description>All about Chevereto updates, development and more.</description>
-        <lastBuildDate>Mon, 02 Nov 2026 21:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:02:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://blog.chevereto.com/feed.atom" rel="self" type="application/rss+xml"/>
